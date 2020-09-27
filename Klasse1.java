@@ -24,6 +24,6 @@ public class Klasse1 {
       return att1;
     }
     public void setAtt1(int att3){
-       att1 = att3;
+       att1 = 200;
     } 
 }
